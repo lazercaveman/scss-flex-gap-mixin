@@ -1,4 +1,4 @@
-# flex-gap-property-mixin 
+# scss-flex-gap-mixin example for flexbox
 ‼️ **(deprecated, since meanwhile [gap property for flexbox](https://caniuse.com/?search=gap) exists)**
 
 .
